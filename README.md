@@ -1,2 +1,3 @@
-# filemetadata_api
-This is a node, express, and mongo db stack project. It is the final certification project for freeCodeCamp's Backend Development and API Course
+# File Metadata Microservice
+
+This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
